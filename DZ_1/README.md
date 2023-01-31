@@ -1,4 +1,4 @@
-![Image1](https://raw.githubusercontent.com/mortvvnutri/1.png)
+![Image1](https://raw.githubusercontent.com/mortvvnutri/WinForms/DZ_1/main/1.png)
 
 ![Image1](https://raw.githubusercontent.com/mortvvnutri/2.png)
 
